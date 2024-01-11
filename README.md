@@ -1,5 +1,5 @@
 # Line-Algorithms
-- a project created during the 5th semester (computer graphics course) in a team of 10, implemented python "tkinter library" and included 5 algorithms:
+- a project created during the 5th semester (computer graphics course) in a team of 10, implemented in python "tkinter library" and included 5 algorithms:
 ## 1- DDA (Digital Differential Analyzer) 
 <img src="https://github.com/AliaaNasser7/Line-Algorithms/assets/125163801/e44b5c76-2178-46aa-8c10-76f05cdc672d" width="500" height="500">
 
